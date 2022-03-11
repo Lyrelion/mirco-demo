@@ -1,3 +1,7 @@
+/**
+ * 新建 module
+ * @dependence nest g module user server
+ */
 import { Module } from '@nestjs/common';
 import { UserController } from './user.controller';
 import { UserService } from './user.service';

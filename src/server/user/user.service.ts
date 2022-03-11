@@ -1,3 +1,7 @@
+/**
+ * 新建 provider
+ * @dependence nest g service user server
+ */
 import { Injectable } from '@nestjs/common';
 
 // 为了在 user.service 中操作数据库

@@ -1,3 +1,7 @@
+/**
+ * 新建 controller
+ * @dependence nest g controller user server
+ */
 import {
   Controller,
   Body,
